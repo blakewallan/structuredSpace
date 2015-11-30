@@ -1,3 +1,9 @@
+.home {
+    background-image: url(../img/desk-plant.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .navbar {
     height: 8em;
 }
@@ -15,4 +21,18 @@
 
 .navbar {
     background: none;
+}
+
+.head-white {
+    font-size: 8em;
+    color: white;
+}
+
+.sub-white {
+    color: white;
+}
+
+.inner {
+    padding-top: 10em;
+    margin: 0 auto;
 }
